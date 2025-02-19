@@ -153,3 +153,14 @@ Repeat the previous four steps until the stack is cleared.
 The result is that you have "infinite" U, G, and C.
 Important to note that once one activation of Mirage Mirror has resolved it no longer has the copy ability. Mirage Mirror's "end state" might be relevant - adjust what the first activation targets if it is.
 
+C Sinks
+Dimensional Infiltrator
+Exile everyone else's libraries.
+Dodges removal as long as one player has a land somewhere in their library.
+
+Prophet of Distortion
+Draw your deck.
+
+Thrasios, Triton Hero
+For some winning lines, it it is important to leave specific cards in the deck. Can this ever be an issue if the cards are consecutive as you'd scry one to the bottom but then be forced to put the second onto the battlefield tapped or draw it?
+
