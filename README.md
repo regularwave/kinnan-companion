@@ -4,7 +4,7 @@ Kinnan's first ability is a mana ability that triggers from the resolution of an
 The source of the "extra" mana is Kinnan, not the non-land permanent tapped for mana.
 Interaction with multipliers: Kinnan adds "on top" of the multiplied mana. Arcane Signet + Nyxbloom Ancient = four mana of one color.
 
-Going Infinite
+Going "Infinite"
 Basalt Monolith
 Tap for 3+1 C. Pay 3 to untap. C floating. Repeat.
 
@@ -19,7 +19,7 @@ Tap MA for U+U. (Mana pool is UUCCC.)
 Cast SR, HH trigger targets MA. (Mana pool is UUCC.)
 Resolve HH trigger returning MA to hand. (Mana pool is UUCC.)
 Resolve SR. (Mana pool is UUCC.)
-Loop. Tap MA for G+G every other MA cast to generate infinite U, G, and C.
+Loop. Tap MA for G+G every other MA cast to generate "infinite" U, G, and C.
 
 A 0 mana value rock pairs with any other rock.
 - be careful with Mox Opal's metalcraft
@@ -47,7 +47,7 @@ Tap for 3x3 C. Pay 4 to untap. 5 C floating. Repeat.
 
 Others
 Machine God's Effigy
-If you or an opponent has a Devoted Druid on the battlefield and you resolve MGE and copy the DD, you should be able to generate infinite U or G and only split second can stop you.
+If you or an opponent has a Devoted Druid on the battlefield and you resolve MGE and copy the DD, you should be able to generate "infinite" U or G and only split second can stop you.
 MGE copying DD has these relevant characteristics:
 Type: Artifact (not Creature)
 T: Add U.
@@ -59,3 +59,48 @@ Untap with -1/-1 ability.
 Loop.
 
 Because the MGEDD doesn't have toughness, it will never die from the -1/-1 counters. The mana abilities can't be responded to. Except for split second spells, responses to the -1/-1 ability can be responded to with another activation of the -1/-1 ability.
+
+Freed From the Real/Pemmin's Aura
+Put FFtR/PA on a creature that can tap for any color. It is notable that the untap abilities are on the enchantment itself and are not abilities granted to the creature (potentially allowing you to get around Harsh Mentor effects).
+
+Tap for U+U. (Mana pool is UU.)
+Pay U to untap. (Mana pool is U.)
+Loop to generate "infinite" U.
+Tap for G+G. (Mana pool is "infinite" U and GG.)
+Pay U to untap. (Mana pool is "infinite" U and GG.)
+Loop to generate "infinite" G. (Mana pool is "infinite" UG.)
+
+FFtR/PA Without Kinnan
+Nyxbloom Ancient
+Tap for UUU. (Mana pool is UUU.)
+Pay U to untap. (Mana pool is UU.)
+Loop to generate "infinite" U.
+Tap for GGG. (Mana pool is "infinite" U and GGG.)
+Pay U to untap. (Mana pool is "infinite" U and GGG.)
+Loop to generate "infinite" G. (Mana pool is "infinite" UG.)
+
+Creatures that produce more than one mana on their own
+Bloom Tender (FFtR/PA is your blue permanent)
+Tap for UG. (Mana pool is UG.)
+Pay U to untap. (Mana pool is G.)
+Loop to generate "infinite" G. (Mana pool is "infinite" G.)
+Tap for UG. (Mana pool is "infinite" G and one U).
+Unfortunately, you can't "get ahead" and also generate "infinite" U with this setup. It does allow you to recast Kinnan from the CZ any number of times, though, if the the issue is that Kinnan isn't on the battlefield.
+
+Sanctum Weaver
+Because SW is an Enchantment Creature you now control (at least) two enchantments.
+Tap for UU. (Mana pool is UU.)
+Pay U to untap. (Mana pool is U.)
+Loop to generate "infinite" U.
+Tap for GG. (Mana pool is "infinite" U and GG.)
+Pay U to untap. (Mana pool is "infinite" U and GG.)
+Loop to generate "infinite" G. (Mana pool is "infinite" UG.)
+
+Incubation Druid
+Agatha's Soul Cauldron makes it easier to put a +1/+1 counter on this (a single counter will do - you don't have to Adapt 3).
+Tap for UUU. (Mana pool is UUU.)
+Pay U to untap. (Mana pool is UU.)
+Loop to generate "infinite" U.
+Tap for GGG. (Mana pool is "infinite" U and GGG.)
+Pay U to untap. (Mana pool is "infinite" U and GGG.)
+Loop to generate "infinite" G. (Mana pool is "infinite" UG.)
