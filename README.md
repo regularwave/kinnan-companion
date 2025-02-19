@@ -164,3 +164,21 @@ Draw your deck.
 Thrasios, Triton Hero
 For some winning lines, it it is important to leave specific cards in the deck. Can this ever be an issue if the cards are consecutive as you'd scry one to the bottom but then be forced to put the second onto the battlefield tapped or draw it?
 
+Winning
+Notes on ways to win
+Assume "infinite" U, G, and C mana available/in mana pool.
+
+Blue Sun's Zenith
+BSZ works great with Thrasios on the battlefield as you can force one player to lose and then use Thrasios to put the BSZ back into your hand as many times as needed to cause all other players to lose.
+
+Drown in Dreams
+Target one player with the draw mode and another with the mill mode. Use Endurance to put your graveyard on the bottom and then find DiD again with Thrasios.
+
+Finale of Devastation
+With enough creatures on the battlefield to get around blockers, make all of your creatures enormous, give them haste, then attack.
+
+Stroke of Genius
+Force one player to lose by drawing too many cards.
+
+Thassa's Oracle
+Draw until there are a number of cards left in your library ≤ your devotion to U, play TO.
