@@ -127,6 +127,10 @@ EtB draw
 Gemstone Array
 Save up counters for a future turn if you can't utilize the mana now.
 
+Treasure Vault
+Activate to generate "half" of "infinite" C treasures.
+Is an artifact (any artifact tutor) with a mana ability (Moonsilver Key) and land (Crop Rotation).
+
 Urn of Godfire
 Sacrifice to destroy creature or enchantment
 
