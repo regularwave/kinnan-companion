@@ -104,3 +104,48 @@ Loop to generate "infinite" U.
 Tap for GGG. (Mana pool is "infinite" U and GGG.)
 Pay U to untap. (Mana pool is "infinite" U and GGG.)
 Loop to generate "infinite" G. (Mana pool is "infinite" UG.)
+
+"Infinite" C - Things To Do
+Unlimited Filters
+Creature
+Crossroads Candleguide
+Scarecrow, EtB exile card in a graveyard
+
+Prismite
+Golem
+
+Signpost Scarecrow
+Scarecrow, Vigilance
+
+Stonework Packbeast
+Beast, Cleric, Rogue, Warrior, and Wizard
+
+Non-creature
+Energy Refractor
+EtB draw
+
+Gemstone Array
+Save up counters for a future turn if you can't utilize the mana now.
+
+Urn of Godfire
+Sacrifice to destroy creature or enchantment
+
+Special
+Agatha's Soul Cauldron
+Doesn't filter mana but allows Kinnan (or other creature) activations using only C.
+
+Mirage Mirror
+On battlefield: Basalt Monolith/Grim Monolith, a permanent that can generate both U and G, and Mirage Mirror. If the U/G-generating permanent is a creature, Mirage Mirror will need to have been on the battlefield since the beginning of the turn.
+Priority is relevant; see RC117.3c.
+Have "infinite" C.
+Activate Mirage Mirror targeting Basalt Monolith/Grim Monolith. Hold priority.
+Activate Mirage Mirror targeting the U/G-generating permanent. Hold priority.
+Repeat the previous two steps an "infinite" number of times.
+Then you start resolving the stack of Mirage Mirror activations - the "top" one will be one targeting the U/G-generating permanent.
+Mirage Mirror is now a copy of the U/G-generating permanent. Tap for U or G.
+Resolve the next Mirage Mirror activation.
+Mirage Mirror is now a copy of Basalt Monolith/Grim Monolith. Pay CCC or CCCC to untap.
+Repeat the previous four steps until the stack is cleared.
+The result is that you have "infinite" U, G, and C.
+Important to note that once one activation of Mirage Mirror has resolved it no longer has the copy ability. Mirage Mirror's "end state" might be relevant - adjust what the first activation targets if it is.
+
