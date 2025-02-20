@@ -250,3 +250,26 @@ Gain threshold somehow.
 Loop.
 
 Repeat the loop for one opponent until they have "infinite" Cephalid Coliseum activations targeting them. Then repeat the whole process for each other opponent, holding priority throughout. Once all opponents have "infinite" Cephalid Coliseum activations targeting them, start allowing them to resolve. If your opponents have interaction - or find it from the Cephalid Coliseum draws - you can repeat the loop in response to the interaction to eliminate that player. This setup is trickier because it requires you to gain threshold again at the end of every loop.
+
+Endurance + Pongify/Rapid Hybridization + Crop Rotation
+Setup:
+Cephalid Coliseum on the battlefield (tapped or untapped)
+Have access to Endurance
+Have access to Pongify or Rapid Hybridization
+Threshold
+Have access to Crop Rotation
+
+Activate Cephalid Coliseum targeting an opponent. Cephalid Coliseum will end up in your graveyard. Hold priority. (This is the beginning of the loop.)
+Cast Endurance.
+Resolve Endurance.
+Endurance EtB ability goes on the stack targeting yourself. Hold priority.
+Cast Pongify or Rapid Hybridization targeting Endurance.
+Resolve Pongify or Rapid Hybridization, putting it and Endurance into your graveyard.
+Resolve Endurance's EtB, putting your graveyard (including Cephalid Coliseum, Endurance, and either Pongify or Rapid Hybridization) on the bottom of your library in a random order. Do not allow the Cephalid Coliseum ability to resolve. You lose threshold.
+Activate Thrasios. You must choose to keep anything except for Cephalid Coliseum (Thrasios would put it onto the battlefield tapped). Continue to activate Thrasios until you have Crop Rotation, Endurance, and either Pongify or Rapid Hybridization in your hand again, and have put at least one non-Cephalid Coliseum land onto the battlefield (which will be tapped). Do not allow the Cephalid Coliseum ability to resolve.
+Cast Crop Rotation, sacrificing the land that Thrasios put onto the battlefield.
+Resolve Crop Rotation, putting Cephalid Coliseum onto the battlefield from your library. Do not allow the Cephalid Coliseum ability on the stack to resolve.
+Gain threshold somehow.
+Loop.
+
+Repeat the loop for one opponent until they have "infinite" Cephalid Coliseum activations targeting them. Then repeat the whole process for each other opponent, holding priority throughout. Once all opponents have "infinite" Cephalid Coliseum activations targeting them, start allowing them to resolve. If your opponents have interaction - or find it from the Cephalid Coliseum draws - you can repeat the loop in response to the interaction to eliminate that player. This setup puts Cephalid Coliseum itself into your graveyard where it can be easier to exile and still requires you to gain threshold at the end of every loop.
