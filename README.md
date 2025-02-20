@@ -168,6 +168,7 @@ Winning
 Notes on ways to win
 Assume "infinite" U, G, and C mana available/in mana pool.
 
+Straightforward
 Blue Sun's Zenith
 BSZ works great with Thrasios on the battlefield as you can force one player to lose and then use Thrasios to put the BSZ back into your hand as many times as needed to cause all other players to lose.
 
@@ -182,3 +183,43 @@ Force one player to lose by drawing too many cards.
 
 Thassa's Oracle
 Draw until there are a number of cards left in your library ≤ your devotion to U, play TO.
+
+Walking Ballista
+Cast with a large X, ping each other player until they lose.
+Note: no opportunity to add counters if you put WB onto the battlefield through Kinnan's ability.
+
+Cephalid Coliseum
+A complex line with a few different methods. Allows for an "instant-speed" win. For all cases, assume "infinite" U, G, and C, and that Thrasios is on the battlefield.
+
+The "easy" line - Colossal Skyturtle and Invasion of Ikoria
+Setup:
+Cephalid Coliseum on the battlefield (tapped or untapped)
+Flash enabler (untapped Emergence Zone on the battlefield, High Fae Trickster on battlefield or in hand, Valley Floodcaller on battlefield or in hand, etc)
+Hullbreaker Horror on battlefield or in hand or Tidespout Tyrant on the battlefield
+Threshold
+Mirage Mirror on the battlefield (not copying anything) or in hand
+Have access to Colossal Skyturtle and Invasion of Ikoria (can be in deck)
+Have any other permanent on the battlefield (must be non-creature if Valley Floodcaller is your flash enabler; Sol Ring in this example)
+
+Gain the ability to cast spells as though they had flash (Activate Emergence Zone's second ability or have High Fae Trickster or Valley Floodcaller on the battlefield, etc).
+Activate Thrasios until you have Colossal Skyturtle and Invasion of Ikoria in your hand.
+If not on the battlefield, cast Mirage Mirror.
+HH trigger you can decline or target any permanent an opponent controls/TT trigger targets any permanent an opponent controls.
+Activate Mirage Mirror targeting Cephalid Coliseum. (This is the beginning of the loop.)
+Activate the Mirage Mirror copy of Cephalid Coliseum targeting an opponent. Mirage Mirror will end up in your graveyard. Hold priority.
+Activate Colossal Skyturtle's first channel ability to return Mirage Mirror to your hand. Do not allow the Mirage Mirror copy of Cephalid Coliseum's ability to resolve.
+Cast Invasion of Ikoria with X≥7.
+HH/TT trigger targets Sol Ring.
+Resolve HH/TT trigger, returning Sol Ring to your hand.
+Resolve Invasion of Ikoria, returning Colossal Skyturtle to the battlefield from your graveyard. Do not allow the Mirage Mirror copy of Cephalid Coliseum's ability to resolve.
+Cast Mirage Mirror.
+HH/TT trigger targets either Colossal Skyturtle or Invasion of Ikoria.
+Resolve HH/TT trigger, returning either Colossal Skyturtle or Invasion of Ikoria to your hand.
+Resolve Mirage Mirror. Do not allow the Mirage Mirror copy of Cephalid Coliseum's ability to resolve.
+Cast Sol Ring.
+HH/TT trigger targets whichever of Colossal Skyturtle or Invasion of Ikoria is still on the battlefield.
+Resolve HH/TT trigger, returning whichever of Colossal Skyturtle or Invasion of Ikoria is still on the battlefield to your hand.
+Resolve Sol Ring. Do not allow the Mirage Mirror copy of Cephalid Coliseum's ability to resolve.
+Loop.
+
+Repeat the loop for one opponent until they have "infinite" Cephalid Coliseum activations targeting them. Then repeat the whole process for each other opponent, holding priority throughout. Once all opponents have "infinite" Cephalid Coliseum activations targeting them, start allowing them to resolve. If your opponents have interaction - or find it from the Cephalid Coliseum draws - you can repeat the loop in response to the interaction to eliminate that player. This is the "easy" setup mainly because it only requires you to gain threshold once at the beginning.
