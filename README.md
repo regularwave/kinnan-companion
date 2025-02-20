@@ -191,7 +191,7 @@ Note: no opportunity to add counters if you put WB onto the battlefield through 
 Cephalid Coliseum
 A complex line with a few different methods. Allows for an "instant-speed" win. For all cases, assume "infinite" U, G, and C, and that Thrasios is on the battlefield.
 
-The "easy" line - Colossal Skyturtle and Invasion of Ikoria
+Colossal Skyturtle and Invasion of Ikoria - the "easy" line
 Setup:
 Cephalid Coliseum on the battlefield (tapped or untapped)
 Flash enabler (untapped Emergence Zone on the battlefield, High Fae Trickster on battlefield or in hand, Valley Floodcaller on battlefield or in hand, etc)
@@ -223,3 +223,30 @@ Resolve Sol Ring. Do not allow the Mirage Mirror copy of Cephalid Coliseum's abi
 Loop.
 
 Repeat the loop for one opponent until they have "infinite" Cephalid Coliseum activations targeting them. Then repeat the whole process for each other opponent, holding priority throughout. Once all opponents have "infinite" Cephalid Coliseum activations targeting them, start allowing them to resolve. If your opponents have interaction - or find it from the Cephalid Coliseum draws - you can repeat the loop in response to the interaction to eliminate that player. This is the "easy" setup mainly because it only requires you to gain threshold once at the beginning.
+
+Endurance + Pongify/Rapid Hybridization + Mirage Mirror
+Setup:
+Cephalid Coliseum on the battlefield (tapped or untapped)
+Flash enabler (untapped Emergence Zone on the battlefield, High Fae Trickster on battlefield or in hand, Valley Floodcaller on battlefield or in hand, etc)
+Have access to Endurance
+Have access to Pongify or Rapid Hybridization
+Threshold
+Mirage Mirror on the battlefield (not copying anything) or in hand
+
+Gain the ability to cast spells as though they had flash (Activate Emergence Zone's second ability or have High Fae Trickster or Valley Floodcaller on the battlefield, etc).
+If not on the battlefield, cast Mirage Mirror.
+Activate Mirage Mirror targeting Cephalid Coliseum. (This is the beginning of the loop.)
+Activate the Mirage Mirror copy of Cephalid Coliseum targeting an opponent. Mirage Mirror will end up in your graveyard. Hold priority.
+Cast Endurance.
+Resolve Endurance.
+Endurance EtB ability goes on the stack targeting yourself. Hold priority.
+Cast Pongify or Rapid Hybridization targeting Endurance.
+Resolve Pongify or Rapid Hybridization, putting it and Endurance into your graveyard.
+Resolve Endurance's EtB, putting your graveyard (including Mirage Mirror, Endurance, and either Pongify or Rapid Hybridization) on the bottom of your library in a random order. Do not allow the Mirage Mirror copy of Cephalid Coliseum's ability to resolve. You lose threshold.
+Activate Thrasios until you have Mirage Mirror, Endurance, and either Pongify or Rapid Hybridization in your hand again.
+Cast Mirage Mirror.
+Resolve Mirage Mirror.
+Gain threshold somehow.
+Loop.
+
+Repeat the loop for one opponent until they have "infinite" Cephalid Coliseum activations targeting them. Then repeat the whole process for each other opponent, holding priority throughout. Once all opponents have "infinite" Cephalid Coliseum activations targeting them, start allowing them to resolve. If your opponents have interaction - or find it from the Cephalid Coliseum draws - you can repeat the loop in response to the interaction to eliminate that player. This setup is trickier because it requires you to gain threshold again at the end of every loop.
