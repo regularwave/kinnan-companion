@@ -315,3 +315,73 @@ Pongify/Rapid Hybridization resolves, destroying Endurance and putting it and Po
 Endurance EtB resolves, putting your graveyard on the bottom of your library.
 Activate Thrasios until you draw both Endurance and Pongify/Rapid Hybridization.
 Loop.
+
+Card Notes
+Mana Rocks
+Look for rocks that are "mana positive" or at least "mana neutral" with Kinnan on the battlefield. In general, that means 2 mana value rocks are the highest mana value we want.
+
+The Best
+Arcane Signet
+2 mana value
+Taps for U or U+U with Kinnan on the battlefield or G or G+G with Kinnan on the battlefield.
+Best of the 2 mana value rocks as it has no drawbacks.
+
+Basalt Monolith
+3 mana value
+Taps for CCC or CCC+C with Kinnan on the battlefield.
+At best, it makes "infinite" C. At worst, it's "free" the turn you play it.
+
+Chrome Mox
+0 mana value
+Taps for U or U+U with Kinnan on the battlefield (blue or multicolor imprint) or G or G+G with Kinnan on the battlefield (green or multicolor imprint).
+Note that you can decline to imprint a card and just use it as a free spell for Hullbreaker Horror/Tidespout Tyrant triggers.
+
+Fellwar Stone
+2 mana value
+Taps for X or X+X with Kinnan on the battlefield, where X is a color that an opponent's land could produce.
+Sometimes only effectively taps for "CC" if none of your opponents are playing U or G lands. For Gemstone Caverns: any color only if it has a luck counter. Colorless is not a color.
+
+Lotus Petal
+0 mana value
+Taps for X or X+X with Kinnan on the battlefield, where X is any color.
+Can just use it as a free spell for Hullbreaker Horror/Tidespout Tyrant triggers.
+
+Mana Vault
+1 mana value
+Taps for CCC or CCC+C with Kinnan on the battlefield.
+Untap ability triggers at the beginning of your upkeep.
+
+Mox Amber
+0 mana value
+Taps for X or X+X with Kinnan on the battlefield, where X is a color from among legendary creatures or planeswalkers you control.
+Colorless is not a color.
+
+Mox Diamond
+0 mana value
+Taps for X or X+X with Kinnan on the battlefield, where X is any color.
+Never enters the battlefield if you don't discard a land.
+
+Mox Opal
+0 mana value
+Metalcraft: taps for X or X+X with Kinnan on the battlefield, where X is any color.
+Can be used in Hullbreaker Horror/Tidespout Tyrant loops, but be aware that those triggers are on cast so you may lose metalcraft.
+
+Simic Signet
+2 mana value
+1, tap for UG or either UUG or UGG with Kinnan on the battlefield.
+Sort of "costs" CCC to generate UUG or UGG (with Kinnan on the battlefield).
+
+Sol Ring
+1 mana value
+Taps for CC or CC+C with Kinnan on the battlefield.
+Incredible.
+
+Springleaf Drum
+1 mana value
+Tap, tap an untapped creature you control for X or X+X with Kinnan on the battlefield, where X is any color.
+Very useful with so many utility creatures or mana dorks with summoning sickness around.
+
+Talisman of Curiosity
+2 mana value
+Taps for C, U, or G or C+C, U+U, or G+G with Kinnan on the battlefield (deals 1 damage to you if you choose U or G).
+You can use the C option in loops first to generate "infinite" C without damage.
