@@ -274,3 +274,44 @@ Loop.
 
 Repeat the loop for one opponent until they have "infinite" Cephalid Coliseum activations targeting them. Then repeat the whole process for each other opponent, holding priority throughout. Once all opponents have "infinite" Cephalid Coliseum activations targeting them, start allowing them to resolve. If your opponents have interaction - or find it from the Cephalid Coliseum draws - you can repeat the loop in response to the interaction to eliminate that player. This setup puts Cephalid Coliseum itself into your graveyard where it can be easier to exile and still requires you to gain threshold at the end of every loop.
 
+Apes, Birds, or Frog Lizards - Second Main or Winning Later
+In case an opponent can't lose for some reason.
+
+Birds: Swan Song loop
+Need:
+Assume "infinite" mana and Thrasios on the battlefield
+Endurance in hand
+Swan Song in hand
+An instant or enchantment with flash in hand
+Hullbreaker Horror/Tidespout Tyrant on battlefield
+
+Cast Endurance.
+HH/TT trigger targets any permanent.
+Resolve HH/TT trigger.
+Resolve Endurance.
+Endurance EtB targeting yourself. Hold priority.
+Cast your non-Swan Song spell. Hold priority.
+HH/TT trigger targets any permanent (including Endurance). Hold priority.
+Cast Swan Song targeting your spell.
+HH/TT trigger targets Endurance.
+Resolve HH/TT trigger, returning Endurance to your hand.
+Swan Song resolves, countering your spell and putting both the spell and Swan Song in your graveyard. You get a 2/2 Bird.
+(There might be a HH/TT trigger to resolve here if you targeted something other than Endurance.)
+Endurance EtB resolves, putting your graveyard on the bottom of your library.
+Activate Thrasios until you draw both Swan Song and the other spell again.
+Loop.
+
+Apes or Frog Lizards
+Need:
+Assume "infinite" mana and Thrasios on the battlefield
+Endurance in hand
+Pongify or Rapid Hybridization in hand
+
+Cast Endurance.
+Resolve Endurance.
+Endurance EtB targeting yourself. Hold priority.
+Cast Pongify/Rapid Hybridization targeting Endurance.
+Pongify/Rapid Hybridization resolves, destroying Endurance and putting it and Pongify/Rapid Hybridization in your graveyard. You get a 3/3 Ape or Frog Lizard.
+Endurance EtB resolves, putting your graveyard on the bottom of your library.
+Activate Thrasios until you draw both Endurance and Pongify/Rapid Hybridization.
+Loop.
