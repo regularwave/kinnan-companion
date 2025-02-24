@@ -162,7 +162,7 @@ Prophet of Distortion
 Draw your deck.
 
 Thrasios, Triton Hero
-For some winning lines, it it is important to leave specific cards in the deck. Can this ever be an issue if the cards are consecutive as you'd scry one to the bottom but then be forced to put the second onto the battlefield tapped or draw it?
+For some winning lines, it it is important to leave specific cards in the deck. [Can this ever be an issue if the cards are consecutive as you'd scry one to the bottom but then be forced to put the second onto the battlefield tapped or draw it?]
 
 Winning
 Notes on ways to win
@@ -273,3 +273,4 @@ Gain threshold somehow.
 Loop.
 
 Repeat the loop for one opponent until they have "infinite" Cephalid Coliseum activations targeting them. Then repeat the whole process for each other opponent, holding priority throughout. Once all opponents have "infinite" Cephalid Coliseum activations targeting them, start allowing them to resolve. If your opponents have interaction - or find it from the Cephalid Coliseum draws - you can repeat the loop in response to the interaction to eliminate that player. This setup puts Cephalid Coliseum itself into your graveyard where it can be easier to exile and still requires you to gain threshold at the end of every loop.
+
