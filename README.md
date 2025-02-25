@@ -343,7 +343,7 @@ Sometimes only effectively taps for "CC" if none of your opponents are playing U
 
 Lotus Petal
 0 mana value
-Taps for X or X+X with Kinnan on the battlefield, where X is any color.
+Tap, sacrifice for X or X+X with Kinnan on the battlefield, where X is any color.
 Can just use it as a free spell for Hullbreaker Horror/Tidespout Tyrant triggers.
 
 Mana Vault
@@ -385,3 +385,29 @@ Talisman of Curiosity
 2 mana value
 Taps for C, U, or G or C+C, U+U, or G+G with Kinnan on the battlefield (deals 1 damage to you if you choose U or G).
 You can use the C option in loops first to generate "infinite" C without damage.
+
+The Others
+Arcum's Astrolabe
+1 mana value (snow)
+1, tap for X or X+X with Kinnan on the battlefield, where X is any color.
+Snow permanent. EtB draw a card. Cast requires snow mana but the activated ability does not. Using this in bounce loops can be frustrating; the mana it generates is also snow mana so you'll need to track it separately if you're bouncing and replaying this as part of a loop.
+
+Jeweled Lotus
+0 mana value
+Tap, sacrifice for 3 "commander mana" of one color or 3 "commander mana" of one color plus one mana of that color with Kinnan on the battlefield.
+Kinnan's triggered mana ability's additional mana does not come with the "spend this mana only to cast your commander" rider, so this can be a second Lotus Petal with Kinnan on the battlefield. Can just use it as a free spell for Hullbreaker Horror/Tidespout Tyrant triggers.
+
+Moonsnare Prototype
+1 mana value
+Tap, tap an untapped artifact or creature for C or C+C with Kinnan on the battlefield.
+Mana value is only 1 but that one is U and it only makes C but has nonland removal stapled on.
+
+Paradise Mantle
+0 mana value
+Equip to a creature to give it "Tap for X" or X+X with Kinnan on the battlefield.
+Equip cost is 1, so this is sort of a repeatable Springleaf Drum for all the utility creatures you run - remember that tapping the creature this is equipped to doesn't also tap the equipment. Can just use it as a free spell for Hullbreaker Horror/Tidespout Tyrant triggers.
+
+Thought Vessel
+2 mana value
+Tap for C or C+C with Kinnan on the battlefield.
+No max hand size, but we may want to use the EoT discard to gain threshold.
