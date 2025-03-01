@@ -386,7 +386,7 @@ Talisman of Curiosity
 Taps for C, U, or G or C+C, U+U, or G+G with Kinnan on the battlefield (deals 1 damage to you if you choose U or G).
 You can use the C option in loops first to generate "infinite" C without damage.
 
-The Others
+Second Tier Rocks
 Arcum's Astrolabe
 1 mana value (snow)
 1, tap for X or X+X with Kinnan on the battlefield, where X is any color.
@@ -407,7 +407,30 @@ Paradise Mantle
 Equip to a creature to give it "Tap for X" or X+X with Kinnan on the battlefield.
 Equip cost is 1, so this is sort of a repeatable Springleaf Drum for all the utility creatures you run - remember that tapping the creature this is equipped to doesn't also tap the equipment. Can just use it as a free spell for Hullbreaker Horror/Tidespout Tyrant triggers.
 
+Relic of Legends
+3 mana value
+Tap for X or X+X with Kinnan on the battlefield, where X is any color.
+Sort of "mana neutral" with Kinnan on the battlefield (tap for X+X and then tap Kinnan for X). However, Kinnan's doesn't interact
+
 Thought Vessel
 2 mana value
 Tap for C or C+C with Kinnan on the battlefield.
 No max hand size, but we may want to use the EoT discard to gain threshold.
+
+Other Rocks
+Mana rocks that are "mana negative" even with Kinnan aren't worth the slot, generally. Notes on rocks that might be useful or have interesting abilities.
+
+
+Bobbleheads
+3 mana value
+Tap for X or X+X with Kinnan on the battlefield.
+Mana negative even with Kinnan and most of the secondary abilities aren't useful.
+
+Things that don't work with Kinnan
+Kinnan's ability is very specifically-worded and starts with "Whenever you tap a nonland permanent...".
+
+Altars (Ashnod's or Phyrexian)
+3 mana value
+Sac a creature: add mana
+You're not tapping a permanent for mana.
+
